@@ -1,0 +1,23 @@
+body {
+    background-color: #d1cdc5;
+}
+header {
+    background-color: #cb4321;
+    display: flex;
+    justify-content: space-between;
+    align-items: Right;
+}
+
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.container {
+    background-color: white;
+    width: 700px;
+    margin: 16 auto;
+}
